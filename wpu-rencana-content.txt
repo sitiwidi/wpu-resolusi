@@ -4,6 +4,7 @@ RENCANA KONTEN
 *FRAMEWORK
 ^Vue
 ^React
+^Angular
 -Struktur Data Dasar
 -PHP FRAMEWORK
 ^Laravel
